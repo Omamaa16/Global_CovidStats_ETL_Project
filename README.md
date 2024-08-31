@@ -17,4 +17,9 @@ This project leverages Google Cloud Platform to depict the real time data change
 - Google Cloud Service: BigQuery
 4 - Automation
 - Apache Airlfow
+
+## Dataset Information
+The dataset sustains COVID-19 statistics for multiple provinces of 247 different cities belonging to countries worldwide. It provides the number of confirmed cases, deaths, and recoveries, along with the calculated fatality rate for each city and province.
+
+Extracted Datset: 
  
