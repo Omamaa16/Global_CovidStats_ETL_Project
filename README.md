@@ -7,3 +7,14 @@ This project leverages Google Cloud Platform to depict the real time data change
 ## Project Architecture
 ![Project Architecture](Architecture.png)
 
+## Technology and services used
+1 - Extraction and staging
+- Python Libraries: Json, requests, pandas, google.cloud
+- Goofle Cloud Service: CloudStorage
+2 - Transformation
+- Google Cloud Service: DataFlow
+3 - Loading
+- Google Cloud Service: BigQuery
+4 - Automation
+- Apache Airlfow
+ 
