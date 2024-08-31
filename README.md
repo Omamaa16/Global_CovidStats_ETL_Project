@@ -33,10 +33,13 @@ Original Dataset from the rapid.ai: https://rapidapi.com/axisbits-axisbits-defau
 1 - Extraction
 - [Extracting regions info](extraction_regions_info.py)
 - [Extracting the data from covid and combining with the regions info to obtain a combined extracted file](combined_data.py)
+  
 2 - Automating the extraction from the rapid.ai.
 - [Using Apache Airlfow to automate the extraction process from the rapis.ai](dags.py)
+  
 3- Manual mapping of the schema for the BigQuery table.
   [Schema](bigquery_schema.json)
+
 4 - Making a trigger in the cloud function
 - [Once a new csv file is retrieved in cloud storage, the cloud function triggers the data flow job and the data is dumped to the BigQuery](cloud_function.py)
 
