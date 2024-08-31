@@ -1,4 +1,4 @@
-# Covid_worlwide_stats_ETL_project
+# Global_Covid_Statistics_ETL_project
 An ETL project constructed from scratch to depict covid statistics in 267 cities across countries globally.
 
 ## Introduction
