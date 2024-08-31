@@ -21,5 +21,8 @@ This project leverages Google Cloud Platform to depict the real time data change
 ## Dataset Information
 The dataset sustains COVID-19 statistics for multiple provinces of 247 different cities belonging to countries worldwide. It provides the number of confirmed cases, deaths, and recoveries, along with the calculated fatality rate for each city and province.
 
-Extracted Datset: 
+Extracted Data for the region info and the respective covid data: (combined_data.py)
+Extracted Data for the region info: 
+Original Dataset from the rapid.ai: https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/playground/apiendpoint_aad07092-4297-48f8-ae76-849cf549b192
+
  
