@@ -1,2 +1,7 @@
-# covid_worlwide_stats_world_ETL_project
-An ETL project constructed from scratch to depict covid statistics 267 cities across countries worldwide.
+# Covid_worlwide_stats_ETL_project
+An ETL project constructed from scratch to depict covid statistics in 267 cities across countries globally.
+
+## Introduction
+This project leverages Google Cloud Platform to depict the real time data changes in the Covid statistics of the countries worldwide. The data is fetched from the rapid.ai to the cloud stroage, process to the Big Query via the DataFlow. The whole process is automated by Apache Airlfow.
+
+##
