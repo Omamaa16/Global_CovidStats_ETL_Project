@@ -1,0 +1,31 @@
+{
+    "BigQuery Schema": [{
+      "name": "country",
+      "type": "STRING"
+     },
+     {
+      "name": "region",
+      "type": "STRING"
+     },
+     {
+      "name": "province",
+      "type": "STRING"
+     },
+     {
+        "name": "confirmed_cases",
+        "type": "STRING"
+     },
+     {
+        "name": "deaths",
+        "type": "STRING"
+     },
+     {
+        "name": "recovered",
+        "type": "STRING"
+     },
+     {
+        "name": "fatality_rate",
+        "type": "STRING"
+     }
+    ]
+   }

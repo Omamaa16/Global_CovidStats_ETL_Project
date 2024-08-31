@@ -1,0 +1,267 @@
+country,region,province,confirmed_cases,deaths,recovered,fatality_rate
+China,CHN,Anhui,2275,7,0,0.0031
+China,CHN,Beijing,40774,20,0,0.0005
+China,CHN,Chongqing,14715,11,0,0.0007
+China,CHN,Fujian,17122,2,0,0.0001
+China,CHN,Gansu,1742,2,0,0.0011
+China,CHN,Guangdong,103248,10,0,0.0001
+China,CHN,Guangxi,13371,2,0,0.0001
+China,CHN,Guizhou,2534,2,0,0.0008
+China,CHN,Hainan,10483,6,0,0.0006
+China,CHN,Hebei,3292,7,0,0.0021
+China,CHN,Heilongjiang,6603,18,0,0.0027
+China,CHN,Henan,9948,23,0,0.0023
+China,CHN,Hong Kong,2876106,13467,0,0.0047
+China,CHN,Hubei,72131,4515,0,0.0626
+China,CHN,Hunan,7437,4,0,0.0005
+China,CHN,Inner Mongolia,8847,1,0,0.0001
+China,CHN,Jiangsu,5075,0,0,0.0
+China,CHN,Jiangxi,3423,2,0,0.0006
+China,CHN,Jilin,40764,5,0,0.0001
+China,CHN,Liaoning,3547,2,0,0.0006
+China,CHN,Macau,3514,121,0,0.0344
+China,CHN,Ningxia,1276,0,0,0.0
+China,CHN,Qinghai,782,0,0,0.0
+China,CHN,Shaanxi,7326,5,0,0.0007
+China,CHN,Shandong,5880,10,0,0.0017
+China,CHN,Shanghai,67040,595,0,0.0089
+China,CHN,Shanxi,7167,1,0,0.0001
+China,CHN,Sichuan,14567,12,0,0.0008
+China,CHN,Tianjin,4392,3,0,0.0007
+China,CHN,Tibet,1647,0,0,0.0
+China,CHN,Xinjiang,3089,3,0,0.001
+China,CHN,Yunnan,9743,4,0,0.0004
+China,CHN,Zhejiang,11848,1,0,0.0001
+China,CHN,Unknown,1521816,82195,0,0.054
+Japan,JPN,Aichi,2100094,4285,0,0.002
+Japan,JPN,Akita,199130,588,0,0.003
+Japan,JPN,Aomori,277922,640,0,0.0023
+Japan,JPN,Chiba,1456535,3874,0,0.0027
+Japan,JPN,Ehime,314430,683,0,0.0022
+Japan,JPN,Fukui,198871,196,0,0.001
+Japan,JPN,Fukuoka,1579850,3164,0,0.002
+Japan,JPN,Fukushima,401096,826,0,0.0021
+Japan,JPN,Gifu,538509,1102,0,0.002
+Japan,JPN,Gunma,437760,1077,0,0.0025
+Japan,JPN,Hiroshima,796053,1346,0,0.0017
+Japan,JPN,Hokkaido,1333535,4532,0,0.0034
+Japan,JPN,Hyogo,1461481,3796,0,0.0026
+Japan,JPN,Ibaraki,634322,1279,0,0.002
+Japan,JPN,Ishikawa,277113,501,0,0.0018
+Japan,JPN,Kagawa,251256,613,0,0.0024
+Japan,JPN,Kagoshima,439610,877,0,0.002
+Japan,JPN,Kanagawa,2207465,4249,0,0.0019
+Japan,JPN,Kochi,168352,584,0,0.0035
+Japan,JPN,Kumamoto,532492,1292,0,0.0024
+Japan,JPN,Kyoto,674377,1645,0,0.0024
+Japan,JPN,Mie,457736,1038,0,0.0023
+Japan,JPN,Miyagi,534019,938,0,0.0018
+Japan,JPN,Miyazaki,318969,773,0,0.0024
+Japan,JPN,Nagano,454729,861,0,0.0019
+Japan,JPN,Nagasaki,335188,635,0,0.0019
+Japan,JPN,Nara,344394,855,0,0.0025
+Japan,JPN,Niigata,452535,431,0,0.001
+Japan,JPN,Oita,301877,762,0,0.0025
+Japan,JPN,Okayama,488838,838,0,0.0017
+Japan,JPN,Okinawa,576111,926,0,0.0016
+Japan,JPN,Osaka,2818795,8401,0,0.003
+Japan,JPN,Port Quarantine,22118,8,0,0.0004
+Japan,JPN,Saga,260131,489,0,0.0019
+Japan,JPN,Saitama,1790744,3892,0,0.0022
+Japan,JPN,Shiga,372032,669,0,0.0018
+Japan,JPN,Shimane,166928,296,0,0.0018
+Japan,JPN,Shizuoka,862305,1375,0,0.0016
+Japan,JPN,Tochigi,419841,1058,0,0.0025
+Japan,JPN,Tokushima,165538,411,0,0.0025
+Japan,JPN,Tokyo,4323708,7998,0,0.0018
+Japan,JPN,Tottori,140744,260,0,0.0018
+Japan,JPN,Toyama,235567,312,0,0.0013
+Japan,JPN,Unknown,173,0,0,0.0
+Japan,JPN,Wakayama,237568,516,0,0.0022
+Japan,JPN,Yamagata,224910,355,0,0.0016
+Japan,JPN,Yamaguchi,311938,741,0,0.0024
+Japan,JPN,Yamanashi,189249,401,0,0.0021
+Japan,JPN,Iwate,233500,609,0,0.0026
+Canada,CAN,Ontario,1601325,16234,0,0.0101
+Canada,CAN,British Columbia,396817,5249,0,0.0132
+Canada,CAN,Alberta,629269,5622,0,0.0089
+Canada,CAN,Quebec,1320325,18160,0,0.0138
+Canada,CAN,New Brunswick,88866,834,0,0.0094
+Canada,CAN,Manitoba,154712,2464,0,0.0159
+Canada,CAN,Saskatchewan,153651,1890,0,0.0123
+Canada,CAN,Grand Princess,13,0,0,0.0
+Canada,CAN,Newfoundland and Labrador,54757,318,0,0.0058
+Canada,CAN,Prince Edward Island,56523,93,0,0.0016
+Canada,CAN,Nova Scotia,140793,794,0,0.0056
+Canada,CAN,Northwest Territories,11511,22,0,0.0019
+Canada,CAN,Diamond Princess,0,1,0,0.0
+Canada,CAN,Yukon,4989,32,0,0.0064
+Canada,CAN,Nunavut,3531,7,0,0.002
+Canada,CAN,Repatriated Travellers,13,0,0,0.0
+France,FRA,,38618509,161512,0,0.0042
+France,FRA,St Martin,12271,63,0,0.0051
+France,FRA,Saint Barthelemy,5441,6,0,0.0011
+France,FRA,French Polynesia,78055,649,0,0.0083
+France,FRA,French Guiana,98041,413,0,0.0042
+France,FRA,Mayotte,42004,187,0,0.0045
+France,FRA,Guadeloupe,201886,1010,0,0.005
+France,FRA,Reunion,494595,921,0,0.0019
+France,FRA,New Caledonia,80017,314,0,0.0039
+France,FRA,Martinique,229020,1092,0,0.0048
+France,FRA,Saint Pierre and Miquelon,3452,2,0,0.0006
+France,FRA,Wallis and Futuna,3427,7,0,0.002
+Germany,DEU,Baden-Wurttemberg,5063979,19297,0,0.0038
+Germany,DEU,Bayern,6741523,28680,0,0.0043
+Germany,DEU,Berlin,1430661,5564,0,0.0039
+Germany,DEU,Brandenburg,1113946,6506,0,0.0058
+Germany,DEU,Bremen,303612,968,0,0.0032
+Germany,DEU,Hamburg,807013,3614,0,0.0045
+Germany,DEU,Hessen,2928587,12436,0,0.0042
+Germany,DEU,Mecklenburg-Vorpommern,711570,2770,0,0.0039
+Germany,DEU,Niedersachsen,3860773,13718,0,0.0036
+Germany,DEU,Nordrhein-Westfalen,8048396,31400,0,0.0039
+Germany,DEU,Rheinland-Pfalz,1769913,6971,0,0.0039
+Germany,DEU,Saarland,492792,2132,0,0.0043
+Germany,DEU,Sachsen,1955828,16814,0,0.0086
+Germany,DEU,Sachsen-Anhalt,961147,6286,0,0.0065
+Germany,DEU,Schleswig-Holstein,1175406,3481,0,0.003
+Germany,DEU,Thuringen,883914,8298,0,0.0094
+Germany,DEU,Unknown,0,0,0,0.0
+Mexico,MEX,Aguascalientes,90837,3630,0,0.04
+Mexico,MEX,Baja California,175704,12508,0,0.0712
+Mexico,MEX,Baja California Sur,128552,2780,0,0.0216
+Mexico,MEX,Campeche,44242,2298,0,0.0519
+Mexico,MEX,Chiapas,57462,2453,0,0.0427
+Mexico,MEX,Chihuahua,172643,10239,0,0.0593
+Mexico,MEX,Ciudad de Mexico,1858660,44044,0,0.0237
+Mexico,MEX,Coahuila,187173,9039,0,0.0483
+Mexico,MEX,Colima,70936,2255,0,0.0318
+Mexico,MEX,Durango,81548,3696,0,0.0453
+Mexico,MEX,Guanajuato,368546,15219,0,0.0413
+Mexico,MEX,Guerrero,119037,6879,0,0.0578
+Mexico,MEX,Hidalgo,127406,8647,0,0.0679
+Mexico,MEX,Jalisco,296024,20146,0,0.0681
+Mexico,MEX,Mexico,743439,48238,0,0.0649
+Mexico,MEX,Michoacan,115872,9037,0,0.078
+Mexico,MEX,Morelos,99708,5461,0,0.0548
+Mexico,MEX,Nayarit,76268,3274,0,0.0429
+Mexico,MEX,Nuevo Leon,422027,15503,0,0.0367
+Mexico,MEX,Oaxaca,157238,6404,0,0.0407
+Mexico,MEX,Puebla,221279,16748,0,0.0757
+Mexico,MEX,Queretaro,185519,6426,0,0.0346
+Mexico,MEX,Quintana Roo,120075,4459,0,0.0371
+Mexico,MEX,San Luis Potosi,252685,7666,0,0.0303
+Mexico,MEX,Sinaloa,182235,9972,0,0.0547
+Mexico,MEX,Sonora,201304,10349,0,0.0514
+Mexico,MEX,Tabasco,221468,6182,0,0.0279
+Mexico,MEX,Tamaulipas,183092,8329,0,0.0455
+Mexico,MEX,Tlaxcala,60467,3142,0,0.052
+Mexico,MEX,Veracruz,235708,17162,0,0.0728
+Mexico,MEX,Yucatan,142925,7010,0,0.049
+Mexico,MEX,Zacatecas,83365,3993,0,0.0479
+Mexico,MEX,Unknown,0,0,0,0.0
+Italy,ITA,Abruzzo,651674,3931,0,0.006
+Italy,ITA,Basilicata,199646,1021,0,0.0051
+Italy,ITA,Calabria,631613,3347,0,0.0053
+Italy,ITA,Campania,2444797,11791,0,0.0048
+Italy,ITA,Emilia-Romagna,2136671,19283,0,0.009
+Italy,ITA,Friuli Venezia Giulia,575033,5998,0,0.0104
+Italy,ITA,Lazio,2385069,12787,0,0.0054
+Italy,ITA,Liguria,661284,5880,0,0.0089
+Italy,ITA,Lombardia,4118413,45558,0,0.0111
+Italy,ITA,Marche,714100,4399,0,0.0062
+Italy,ITA,Molise,101826,719,0,0.0071
+Italy,ITA,P.A. Bolzano,293808,1610,0,0.0055
+Italy,ITA,P.A. Trento,243951,1647,0,0.0068
+Italy,ITA,Piemonte,1719738,13828,0,0.008
+Italy,ITA,Puglia,1626850,9646,0,0.0059
+Italy,ITA,Sardegna,509829,2923,0,0.0057
+Italy,ITA,Sicilia,1817733,12692,0,0.007
+Italy,ITA,Toscana,1589964,11574,0,0.0073
+Italy,ITA,Umbria,438301,2449,0,0.0056
+Italy,ITA,Valle d'Aosta,50448,567,0,0.0112
+Italy,ITA,Veneto,2692762,16672,0,0.0062
+United Arab Emirates,ARE,,1053213,2349,0,0.0022
+Nepal,NPL,,1001154,12020,0,0.012
+Australia,AUS,New South Wales,3915992,6529,0,0.0017
+Australia,AUS,Victoria,2880559,7370,0,0.0026
+Australia,AUS,Queensland,1800236,2783,0,0.0015
+Australia,AUS,South Australia,883620,1365,0,0.0015
+Australia,AUS,Western Australia,1293461,952,0,0.0007
+Australia,AUS,Tasmania,287507,256,0,0.0009
+Australia,AUS,Northern Territory,105111,91,0,0.0009
+Australia,AUS,Australian Capital Territory,232974,228,0,0.001
+Czechia,CZE,,4618256,42491,0,0.0092
+Qatar,QAT,,495090,688,0,0.0014
+Ukraine,UKR,Cherkasy Oblast,163768,2973,0,0.0182
+Ukraine,UKR,Chernihiv Oblast,126202,2751,0,0.0218
+Ukraine,UKR,Chernivtsi Oblast,150465,3290,0,0.0219
+Ukraine,UKR,Crimea Republic*,212928,5423,0,0.0255
+Ukraine,UKR,Dnipropetrovsk Oblast,303551,9454,0,0.0311
+Ukraine,UKR,Donetsk Oblast,216052,5607,0,0.026
+Ukraine,UKR,Ivano-Frankivsk Oblast,181629,3476,0,0.0191
+Ukraine,UKR,Kharkiv Oblast,305661,6858,0,0.0224
+Ukraine,UKR,Kherson Oblast,107686,2881,0,0.0268
+Ukraine,UKR,Khmelnytskyi Oblast,201270,3703,0,0.0184
+Ukraine,UKR,Kiev,445098,8966,0,0.0201
+Ukraine,UKR,Kiev Oblast,226220,5019,0,0.0222
+Ukraine,UKR,Kirovohrad Oblast,45117,1741,0,0.0386
+Ukraine,UKR,Luhansk Oblast,80033,2392,0,0.0299
+Ukraine,UKR,Lviv Oblast,303357,6569,0,0.0217
+Ukraine,UKR,Mykolaiv Oblast,146174,3530,0,0.0241
+Ukraine,UKR,Odessa Oblast,325462,5917,0,0.0182
+Ukraine,UKR,Poltava Oblast,179994,4181,0,0.0232
+Ukraine,UKR,Rivne Oblast,171031,2530,0,0.0148
+Ukraine,UKR,Sevastopol*,99770,2562,0,0.0257
+Ukraine,UKR,Sumy Oblast,182268,3208,0,0.0176
+Ukraine,UKR,Ternopil Oblast,146363,2391,0,0.0163
+Ukraine,UKR,Vinnytsia Oblast,149845,3546,0,0.0237
+Ukraine,UKR,Volyn Oblast,132045,2394,0,0.0181
+Ukraine,UKR,Zakarpattia Oblast,112462,2724,0,0.0242
+Ukraine,UKR,Zaporizhia Oblast,215070,5866,0,0.0273
+Ukraine,UKR,Zhytomyr Oblast,192801,3538,0,0.0184
+Ukraine,UKR,Unknown,589607,5793,0,0.0098
+Hungary,HUN,,2196804,48762,0,0.0222
+Portugal,PRT,,5570473,26266,0,0.0047
+Jamaica,JAM,,154416,3514,0,0.0228
+Ireland,IRL,,1704502,8708,0,0.0051
+Peru,PER,Amazonas,51138,1409,0,0.0276
+Peru,PER,Ancash,159243,7382,0,0.0464
+Peru,PER,Apurimac,46163,1694,0,0.0367
+Peru,PER,Arequipa,291043,10600,0,0.0364
+Peru,PER,Ayacucho,55696,2407,0,0.0432
+Peru,PER,Cajamarca,111937,4605,0,0.0411
+Peru,PER,Callao,170402,10884,0,0.0639
+Peru,PER,Cusco,146229,5287,0,0.0362
+Peru,PER,Huancavelica,30172,1300,0,0.0431
+Peru,PER,Huanuco,60660,2976,0,0.0491
+Peru,PER,Ica,130224,9114,0,0.07
+Peru,PER,Junin,155282,7614,0,0.049
+Peru,PER,La Libertad,181814,11027,0,0.0606
+Peru,PER,Lambayeque,129893,9486,0,0.073
+Peru,PER,Lima,2110001,96723,0,0.0458
+Peru,PER,Loreto,64716,4471,0,0.0691
+Peru,PER,Madre de Dios,21303,888,0,0.0417
+Peru,PER,Moquegua,64321,1718,0,0.0267
+Peru,PER,Pasco,29033,1140,0,0.0393
+Peru,PER,Piura,181347,13228,0,0.0729
+Peru,PER,Puno,78232,4843,0,0.0619
+Peru,PER,San Martin,70196,3239,0,0.0461
+Peru,PER,Tacna,66032,2256,0,0.0342
+Peru,PER,Tumbes,33866,1752,0,0.0517
+Peru,PER,Ucayali,45826,3301,0,0.072
+Peru,PER,Unknown,2784,195,0,0.07
+Bolivia,BOL,,1194277,22365,0,0.0187
+Poland,POL,,6444960,119010,0,0.0185
+West Bank and Gaza,PSE,,703228,5708,0,0.0081
+South Africa,ZAF,,4067067,102595,0,0.0252
+Malta,MLT,,117610,828,0,0.007
+Cyprus,CYP,,650685,1330,0,0.002
+Turkey,TUR,,17042722,101492,0,0.006
+Cuba,CUB,,1112643,8530,0,0.0077
+Kenya,KEN,,342937,5688,0,0.0166
+Ghana,GHA,,171229,1462,0,0.0085
+Central African Republic,CAF,,15368,113,0,0.0074
+Syria,SYR,,57467,3164,0,0.0551
+Libya,LBY,,507187,6437,0,0.0127
+Albania,ALB,,334457,3598,0,0.0108
